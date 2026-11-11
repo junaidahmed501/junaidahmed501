@@ -37,6 +37,6 @@ An LLM-assisted review workflow for crowdfunding campaign moderation. The model 
 ### Get in touch
 
 - Email: [hire@junaidahmed.dev](mailto:hire@junaidahmed.dev)
-- Book a 30-minute call: [calendly.com/junaid_dev/30min](https://calendly.com/junaid_dev/30min)
+- Book a short call: [calendly.com/junaid_dev/shorty](https://calendly.com/junaid_dev/shorty)
 - Website and CV: [junaidahmed.dev](https://junaidahmed.dev)
 - LinkedIn: [linkedin.com/in/junaidahmedjs](https://www.linkedin.com/in/junaidahmedjs)
