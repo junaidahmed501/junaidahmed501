@@ -1,8 +1,9 @@
+<!-- Generated from profile/data.ts in junaidahmed501/junaidahmed.dev and synced every hour. Edit the facts there, not here. -->
 ## Hi, I'm Junaid
 
-Senior full-stack engineer in Braunschweig, Germany. I build web software that businesses rely on every day, and connect it to the rest of their systems.
+I build web software that businesses rely on every day, and connect it to the rest of their systems.
 
-9+ years in TypeScript, Angular and Node.js. Most recently a safety-critical railway maintenance platform at Sternico, and LLM features where a human makes the final call.
+Senior full-stack engineer with 9+ years in TypeScript, Angular and Node.js. Most recently a safety-critical railway maintenance platform, and LLM features where a human makes the final call. Based in Braunschweig, Germany.
 
 **Available now** for full-time roles and freelance projects, remote, hybrid or on site. Permanent resident in Germany, no sponsorship needed.
 
@@ -17,9 +18,9 @@ Senior full-stack engineer in Braunschweig, Germany. I build web software that b
 
 An LLM-assisted review workflow for crowdfunding campaign moderation. The model recommends, a human decides.
 
-- Code owns anything with a checkable answer, one LLM call handles the narrative, people own every final action.
-- Every cited policy clause is validated against two registries, and a citation quoting text that is not in the submission is discarded.
-- A hand-labelled evaluation set of 51 cases, with a 90% agreement bar and zero tolerance for missed sanctions-list hits.
+- Six-stage pipeline: code owns anything with a checkable answer, one LLM call handles narrative interpretation, people own every final action.
+- Every cited policy clause is validated against two registries; a citation quoting text that is not in the submission is discarded.
+- Hand-labelled evaluation set of 51 cases with a 90% agreement bar and zero tolerance for missed sanctions-list hits.
 
 [Open the live demo](https://triage-copilot.junaidahmed.dev/)
 
@@ -27,12 +28,13 @@ An LLM-assisted review workflow for crowdfunding campaign moderation. The model 
 
 | | |
 |---|---|
-| Frontend | TypeScript, Angular (Signals, RxJS, NgRx), React, Next.js, Nx, ag-Grid |
+| Frontend | TypeScript, Angular (Signals, RxJS, NgRx), React, Next.js, Nx, Web Components, Sass/SCSS, Tailwind CSS, Material UI, ag-Grid |
 | Backend | Node.js, Express, NestJS, Python, Django |
-| Integration | REST, GraphQL, webhooks, OAuth 2.0, Keycloak SSO, WebSockets |
-| AI and LLM | LLM APIs, citation and output validation, evaluation sets, human-in-the-loop review |
-| 3D and maps | BabylonJS, MapLibre, Mapbox |
-| Delivery | Jest, Cypress, GitHub Actions, Azure DevOps, Docker, micro frontends |
+| Integration | REST, GraphQL, webhooks, OAuth 2.0, JWT, Keycloak SSO, WebSockets, real-time data synchronization |
+| AI and LLM | LLM APIs (OpenRouter), prompt engineering, citation and output validation, evaluation design, human-in-the-loop systems |
+| 3D and data | BabylonJS, MapLibre, Mapbox, data-heavy dashboards |
+| Quality and delivery | Jest, Cypress, Jasmine, GitHub Actions, Azure DevOps, Docker, CI/CD, micro frontends, performance profiling |
+| Tools | Cursor, Claude Code, GitHub Copilot, Jira, Figma |
 
 ### Get in touch
 
