@@ -3,7 +3,7 @@
 
 I build web software that businesses rely on every day, and connect it to the rest of their systems.
 
-Senior full-stack engineer with 9+ years in TypeScript, Angular and Node.js. Most recently a safety-critical railway maintenance platform, and LLM features where a human makes the final call. Based in Braunschweig, Germany.
+Senior full-stack engineer with 9+ years in TypeScript, mostly Angular, plus React and Node.js. Most recently a safety-critical railway maintenance platform, and LLM features where a human makes the final call. Based in Braunschweig, Germany.
 
 **Available now** for full-time roles and freelance projects, remote, hybrid or on site. Permanent resident in Germany, no sponsorship needed.
 
